@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Madhavdua
+- 👀 I’m interested in Competetive programming and Web dev
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Web Projects
+- 📫 How to reach me www.linkedin.com/in/madhav-dua-0831a2224
