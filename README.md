@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Madhavdua
-- 👀 I’m interested in Competetive programming and Web dev
+- 👀 I’m interested in Problem Solving and Web Dev
 - 🌱 I’m currently honing my Problem-Solving Skills.
-- 💞️ I’m looking to collaborate on Web Dev Projects
+- 💞️ I’m looking to collaborate on MERN Projects
 - 📫 How to reach me www.linkedin.com/in/madhav-dua-0831a2224
